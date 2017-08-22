@@ -1,5 +1,5 @@
 # Sitecore.Support.451366
-Fixes image disappearing after changing its size in Rich Text Editor
+This patch fixes image disappearing after changing its size in `Rich Text Editor`.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.451366/blob/master/LICENSE).  
